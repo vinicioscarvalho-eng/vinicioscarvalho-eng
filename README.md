@@ -1,42 +1,69 @@
 # Vinicios 👨‍💻
 **Data Engineer & Applied AI | IT Student**
 
-* 🚀 Em transição para **Engenharia de Dados e IA Aplicada**, combinando planejamento estruturado, profundidade teórica e desenvolvimento de soluções sólidas.
-* 🎓 Estudante de Tecnologia da Informação e certificado **Microsoft Azure AI Fundamentals (AI-900)**.
-* 💡 Atualmente desenvolvendo um Assistente de Voz para idosos (MVP para ONG), utilizando IA Generativa para gerar acessibilidade e impacto social.
-* ⛺ Nas horas vagas, você me encontra acampando, escalando, fazendo trilhas ou curtindo uma praia. 🐾
+* 🚀 Em transição para **Engenharia de Dados e IA Aplicada**, combinando background sólido em infraestrutura com desenvolvimento de pipelines e soluções orientadas a dados.
+* 🎓 Estudante de Tecnologia da Informação · **Microsoft Azure AI Fundamentals (AI-900)**
+* 💡 Construindo o **99por1** — Assistente de Voz para idosos (MVP para ONG) com IA Generativa, FastAPI e arquitetura de dados em nuvem.
+* ⛺ Nas horas vagas: acampamentos, escaladas, trilhas e praias. 🐾
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vcsantoss/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicioscarvalho.eng@gmail.com)
 
-<br>
+---
 
-### 🛠️ Linguagens e Tecnologias
+## 🛠️ Stack Técnica
 
+#### 🗄️ Database & Data Modeling
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL/PLSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img width="12" />
-  <!-- dbt: corrigido para shields.io (devicons não tem dbt) -->
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" height="40" alt="dbt" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-Star%2FSnowflake-4A90D9?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling"/>
 </p>
 
-<br>
+#### 🐍 Python & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT_Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL/ELT"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+</p>
 
-### 📊 Estatísticas
+#### ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+#### 🧠 AI Applied & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/NLP_%26_Prompt_Eng-FF6B6B?style=for-the-badge&logo=probot&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+#### 🔐 Data Governance & Compliance
+<p align="left">
+  <img src="https://img.shields.io/badge/LGPD-Privacy_by_Design-0A3D62?style=for-the-badge&logo=shield&logoColor=white" alt="LGPD"/>
+  <img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white" alt="RLS"/>
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicioscarvalho-eng&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="160" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com?user=vinicioscarvalho-eng&theme=dracula&hide_border=true&background=0D1117&dates=9f9f9f" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas"/>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinicioscarvalho-eng&color=0077B5&style=flat-square&label=Visitas+ao+perfil"/>
+</div>
