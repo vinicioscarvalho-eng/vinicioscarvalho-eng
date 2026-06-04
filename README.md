@@ -57,17 +57,24 @@
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/vinicioscarvalho-eng?style=for-the-badge&logo=github&labelColor=0D1117&color=3ECF8E&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/vinicioscarvalho-eng?style=for-the-badge&logo=github&labelColor=0D1117&color=FF694B&label=Stars" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=vinicioscarvalho-eng&color=0077B5&style=for-the-badge&label=Visitas" alt="Visitas"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-principal-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-relacional-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-scripts-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
+![snake animation](https://raw.githubusercontent.com/vinicioscarvalho-eng/vinicioscarvalho-eng/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+![](https://img.shields.io/badge/🐍%20Python-3776AB?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/🗄️%20SQL%20%26%20Oracle-F80000?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/⚡%20FastAPI-009688?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/☁️%20Supabase%20%26%20AWS-3ECF8E?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/🤖%20Gemini%20%26%20Whisper-8E75B2?style=flat-square&logoColor=white)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=vinicioscarvalho-eng&color=0077B5&style=for-the-badge&label=Visitas+ao+perfil)
+![](https://img.shields.io/github/followers/vinicioscarvalho-eng?style=for-the-badge&logo=github&labelColor=161B22&color=0077B5&label=Followers)
+
+</div>
 
 ---
 
