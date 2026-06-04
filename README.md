@@ -33,7 +33,6 @@
 #### ☁️ Cloud & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -42,7 +41,6 @@
 #### 🧠 AI Applied & Analytics
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
   <img src="https://img.shields.io/badge/NLP_%26_Prompt_Eng-FF6B6B?style=for-the-badge&logo=probot&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
@@ -66,7 +64,6 @@
 ![](https://img.shields.io/badge/🐍%20Python-3776AB?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/🗄️%20SQL%20%26%20Oracle-F80000?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/⚡%20FastAPI-009688?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/☁️%20Supabase%20%26%20AWS-3ECF8E?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/🤖%20Gemini%20%26%20Whisper-8E75B2?style=flat-square&logoColor=white)
 
 <br>
