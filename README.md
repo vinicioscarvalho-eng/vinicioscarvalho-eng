@@ -59,7 +59,7 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=vinicioscarvalho-eng&theme=dracula&hide_border=true&background=0D1117&dates=9f9f9f" height="160" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats-eight-tau-86.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas"/>
 </p>
 
 ---
