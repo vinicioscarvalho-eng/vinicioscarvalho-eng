@@ -1,5 +1,4 @@
 # Vinicios 👨‍💻
-
 **Data Engineer & Applied AI | IT Student**
 
 * 🚀 Em transição para **Engenharia de Dados e IA Aplicada**, combinando planejamento estruturado, profundidade teórica e desenvolvimento de soluções sólidas.
@@ -16,7 +15,6 @@
 
 ### 🛠️ Linguagens e Tecnologias
 
-<!-- Ícones minimalistas dispostos em linha, semelhantes à referência -->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
@@ -26,7 +24,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" height="40" alt="dbt" />
+  <!-- dbt: corrigido para shields.io (devicons não tem dbt) -->
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" height="40" alt="dbt" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
@@ -37,8 +36,7 @@
 
 ### 📊 Estatísticas
 
-<!-- Cards em tons escuros que combinam com o modo noturno do GitHub -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicioscarvalho-eng&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicioscarvalho-eng&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="160" alt="Linguagens mais usadas" />
 </p>
