@@ -58,8 +58,15 @@
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=vinicioscarvalho-eng&theme=dracula&hide_border=true&background=0D1117&dates=9f9f9f" height="160" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats-eight-tau-86.vercel.app/api/top-langs/?username=vinicioscarvalho-eng&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas"/>
+  <img src="https://img.shields.io/github/followers/vinicioscarvalho-eng?style=for-the-badge&logo=github&labelColor=0D1117&color=3ECF8E&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/vinicioscarvalho-eng?style=for-the-badge&logo=github&labelColor=0D1117&color=FF694B&label=Stars" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=vinicioscarvalho-eng&color=0077B5&style=for-the-badge&label=Visitas" alt="Visitas"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-principal-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-relacional-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-scripts-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 ---
