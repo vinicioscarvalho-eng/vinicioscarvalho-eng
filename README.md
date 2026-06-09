@@ -2,7 +2,8 @@
 **Data Engineer & Applied AI | IT Student**
 
 * 🚀 Em transição para **Engenharia de Dados e IA Aplicada**, combinando background sólido em infraestrutura com desenvolvimento de pipelines e soluções orientadas a dados.
-* 🎓 Estudante de Tecnologia da Informação · **Microsoft Azure AI Fundamentals (AI-900)**
+* 🎓 Estudante de Tecnologia da Informação · **Microsoft Azure AI Fundamentals (AI-900) - Credencial: E361A3-03B468}}{07/2024}**
+* 🎓 **Microsoft Certified: SQL AI Developer Associate (DP-800) - Estudos em andamento**
 * 💡 Construindo o **99por1** — Assistente de Voz para idosos (MVP para ONG) com IA Generativa, FastAPI e arquitetura de dados em nuvem.
 * ⛺ Nas horas vagas: acampamentos, escaladas, trilhas e praias. 🐾
 
